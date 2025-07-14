@@ -1,5 +1,5 @@
 # AI-Future-Directions-Assignment_PLP-wk6
-*** Purpose**
+## Purpose
 The primary purpose of this project is to delve into cutting-edge AI innovations. Through a combination of theoretical analysis, hands-on prototyping, ethical discussions, and forward-thinking proposals, the project aims to provide a comprehensive outlook on where AI is headed and its potential impact on various domains.
 
 Key Contributions & Features
